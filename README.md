@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrikantNemiwal1
+- 👋 Hi, I’m Shrikant Nemiwal
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React
 - 📫 Reach me at shrikant.nemiwal1@gmail.com
