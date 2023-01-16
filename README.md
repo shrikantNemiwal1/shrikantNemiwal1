@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Shrikant Nemiwal
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React
+- 💡 I'm familiar with HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, MongoDB and C++
+- 🌱 I’m currently creating projects and learning new things
 - 📫 Reach me at shrikant.nemiwal1@gmail.com
 
 <!---
